@@ -77,7 +77,7 @@
         <form action="LoginServlet" method="post">
             <input type="text" name="username" placeholder="Enter Username" required>
             <input type="password" name="password" placeholder="Enter Password" required>
-            <button type="submit">Login</button>
+            <button type="submit">Lets Login</button>
         </form>
 
         <div class="links">
